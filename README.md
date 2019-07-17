@@ -1,7 +1,6 @@
 # changeprofilevk
 Program user.js interface, that allows you change user profiles in VK.
 
-------------------------------------------------------------------Russian-----------------------------------------------------------------
 Использование:
 Сначала установите расширение Tampermonkey(https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru).
 Затем перейдите на сайт https://openuserjs.org/scripts/Egoluback/Change_VK_profile и нажмите на кнопку Install.
@@ -14,7 +13,6 @@ Program user.js interface, that allows you change user profiles in VK.
 Если вы хотите, чтобы вторая фраза содержала одно(не случайное) значение, вам не нужен массив. В строке 90 вместо "planets" введите нужное вам значение в кавычках.
 Если же вам нужно одно случайное значение из нескольких вариантов, в 87 строке замените существующий массив из переменной arrData на тот, что вам нужен.
 
-------------------------------------------------------------------English-----------------------------------------------------------------
 Usage:
 First, install the Tampermonkey extension (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru).
 Then go to https://openuserjs.org/scripts/Egoluback/Change_VK_profile and click the Install button.
