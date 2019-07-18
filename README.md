@@ -12,6 +12,7 @@ Program user.js interface, that allows you change user profiles in VK.
 Для указания первой фразы(в примере - "Родная планета") вам нужно заменить переменную из 89 строки на ту, что вам нужна. Затем в строке 93 исправьте isArr на false.
 Если вы хотите, чтобы вторая фраза содержала одно(не случайное) значение, вам не нужен массив. В строке 90 вместо "planets" введите нужное вам значение в кавычках.
 Если же вам нужно одно случайное значение из нескольких вариантов, в 87 строке замените существующий массив из переменной arrData на тот, что вам нужен.
+![Image alt](https://github.com/Egoluback/changeprofilevk/raw/master/changeVkProfileScreen.png)
 
 Usage:
 First, install the Tampermonkey extension (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru).
